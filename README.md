@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/SNESj1T' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Watch the Prework Walkthrough Video](https://imgur.com/a/prework-video-walkthrough-SNESj1T)
 
 GIF created with QuickTimePlayer
 
